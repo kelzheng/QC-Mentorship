@@ -14,3 +14,4 @@ Compare the results for different numbers of measurements: 10, 100, 1000.
 
 *Bonus question*: How to make sure you produce state |00>+|11> and not |00>-|11> ?
 ```
+The notebook can be found [here](https://github.com/kelzheng/QC-Mentorship/blob/master/QC_Mentorship.ipynb) and can be opened in colab [here](https://colab.research.google.com/drive/1PL638mbF_khALruSCtD4Nc3DPYAvRrmE).
